@@ -1,6 +1,6 @@
 ### Hey, Roee here�
 
-[![Linkedin Badge](https://img.shields.io/badge/-DorSonego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RoeeShemesh)](https://www.linkedin.com/in/RoeeShemesh) [![Gmail Badge](https://img.shields.io/badge/-roee4123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=Roee4123@gmail.com)](Roee4123@gmail.com)  <img src="https://komarev.com/ghpvc/?username=RoeeShemesh" alt="RoeeShemesh" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-RoeeShemesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RoeeShemesh)](https://www.linkedin.com/in/RoeeShemesh) [![Gmail Badge](https://img.shields.io/badge/-roee4123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=Roee4123@gmail.com)](Roee4123@gmail.com)  <img src="https://komarev.com/ghpvc/?username=RoeeShemesh" alt="RoeeShemesh" /> </p>
 
 
  🌱 I’m currently learning **Python, Java, JavaScript, C, C++, Html, CSS, Node, React **
